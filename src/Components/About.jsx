@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Full-Stack Web Development",
+  "API Integration and Development",
+  "Database Management (SQL & NoSQL)",
+  "Version Control",
+  "Mobile app development",
+  "Data Strictures and Algorithms",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a full-stack developer passionate about building user-friendly web experiences. By leveraging my expertise in APIs, databases, and various programming languages, I bring ideas to life on both the front-end and back-end.";
 
 const About = () => {
   return (
